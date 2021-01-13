@@ -39,29 +39,50 @@ body {
 }
 
 .one {
+  font-family: 'Fraunces', serif;
+  font-size: 32px;
   background: #efdefe;
 }
 
 .two {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
   background: #a3f3d3;
 }
 
 .three {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
   background: #0bbaa0;
 }
 
 .four {
+    font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
   background: #00dfdf;
 }
 
 .five {
-  background: red;
+    font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background: #efdefe;
 }
 
 .six {
-  background: yellow;
+    font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background: #a3f3d3;
 }
 
 .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   text-align: center;
 }
